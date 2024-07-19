@@ -1,0 +1,3 @@
+javaapplication62.Apartment
+javaapplication62.Shop
+javaapplication62.House
