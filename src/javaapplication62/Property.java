@@ -1,10 +1,5 @@
-
 package javaapplication62;
 
-/**
- *
- * @author huda sawalha
- */
 abstract class Property {
     private String address;
     private String name;
@@ -30,4 +25,3 @@ abstract class Property {
 
     public abstract double getRentalPrice();
 }
-
